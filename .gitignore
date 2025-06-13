@@ -1,0 +1,14 @@
+*.out
+core.*
+*.a
+*.o
+*.pyc
+*.egg-info/
+*.out
+*.egg
+*.vfproj
+*.sln
+*.tar.gz
+*.tgz
+*.tar
+*.pyc
